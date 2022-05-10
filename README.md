@@ -38,7 +38,7 @@
 
 ## 💻 About
 
-DoctorCare é uma land-page de uma assistência medica simplificada.
+Doctor Care is a simplified healthcare landing page.
 
 Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](https://lp.rocketseat.com.br/nlw-return). NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
 
@@ -46,14 +46,14 @@ Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](htt
 
 ## ⚙️ Features
 
-- [x] A parte principal é composta pelas seguntes informações:
-   - [x] número de pacientes atendidos
-   - [x] quantidade de especialistas disponiveis
-   - [x] total de anos que estão no mercado
+- [x] The main part consists of the following information:
+   - [x] number of patients seen
+   - [x] number of specialists available
+   - [x] total number of years on the market
 
-- [x] Logo após vem uma seção com os serviços que estão disponiveis:
-- [x] A proxima seção contem informações sobre a empresa
-- [x] E para finalizar tem uma seção para entrar em contato com a assistencia
+- [x] Soon after comes a section with the services that are available:
+- [x] The next section contains information about the company
+- [x] And finally, there's a section to contact support.
 
 ---
 
