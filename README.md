@@ -66,6 +66,15 @@ The application layout is available on Figma:
 </a>
 
 
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="DoctorCare" title="#DoctorCare" src="./prints/gifDoctorCore.gif" width="90%">
+
+
+</p>
+
+
 ### Mobile
 
 <p align="center">
@@ -78,21 +87,6 @@ The application layout is available on Figma:
   <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-4.png" width="180px">
   
   <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-5.png" width="180px">
-
-</p>
-
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="DoctorCare" title="#DoctorCare" src="./prints/image-1.png" width="400px">
-  
-  <img alt="DoctorCare" title="#DoctorCare" src="./prints/image-2.png" width="400px">
-  
-  <img alt="DoctorCare" title="#DoctorCare" src="./prints/image-3.png" width="400px">
-  
-  <img alt="DoctorCare" title="#DoctorCare" src="./prints/image-4.png" width="400px">
-  
-  <img alt="DoctorCare" title="#DoctorCare" src="./prints/image-5.png" width="400px">
 
 </p>
 
