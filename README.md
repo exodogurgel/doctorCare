@@ -13,7 +13,7 @@
 <p align="center">
 
   <a href="https://exodogurgel.github.io/doctorCare/"> 
-	<img alt="Website" src="./prints/website.png" height=20"> </a>
+	<img alt="Website" src="https://img.shields.io/website?up_color=blue&up_message=DoctorCare&url=https%3A%2F%2Fshields.io" > </a>
 	
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="welcome!" />
     
@@ -66,7 +66,7 @@ Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](htt
 The application layout is available on Figma:
 
 <a href="https://www.figma.com/community/file/1102912263666619803">
-  <img alt="Made by " src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Made by " src="https://img.shields.io/website?label=Access%20Layout&up_message=Figma&url=https%3A%2F%2Fshields.io">
 </a>
 
 
