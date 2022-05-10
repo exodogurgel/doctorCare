@@ -12,7 +12,8 @@
 
 <p align="center">
 
-  <a href="https://img.shields.io/website?url=https%3A%2F%2Fexodogurgel.github.io%2FdoctorCare%2F"><img src="https://img.shields.io/website?up_color=blue&up_message=DoctorCore&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttps%253A%252F%252Fexodogurgel.github.io%252FdoctorCare%252F" /> </a>
+  <a href="https://tcno.co/"> 
+	<img alt="Website" src="./prints/webSite.png" height=20"> </a>
 	
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="welcome!" />
     
@@ -22,8 +23,6 @@
   <a href="https://rocketseat.com.br">
     <img alt="made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
-	
-  <img alt="website" src="https://img.shields.io/website?url=https%3A%2F%2Fexodogurgel.github.io%2FdoctorCare%2F">
   
 </p>
 
