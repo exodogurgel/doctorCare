@@ -11,13 +11,17 @@
 </h3>
 
 <p align="center">
+	
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="welcome!" />
+	
+  <img src="https://img.shields.io/github/languages/count/exodogurgel/doctorCare" alt="languages" />
 
   <a href="https://exodogurgel.github.io/doctorCare/"> 
 	<img alt="Website" src="https://img.shields.io/website?up_color=blue&up_message=DoctorCare&url=https%3A%2F%2Fshields.io" > </a>
 	
-  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="welcome!" />
+  <img src="https://img.shields.io/github/repo-size/exodogurgel/doctorCare" alt="size" />
     
-
+  <img src="https://img.shields.io/github/license/exodogurgel/doctorcare" alt="license" />
   
   <a href="https://rocketseat.com.br">
     <img alt="made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
