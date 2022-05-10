@@ -78,15 +78,15 @@ The application layout is available on Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-1.png" width="180px">
+  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-1.png" width="18%">
   
-  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-2.png" width="180px">
+  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-2.png" width="18%">
   
-  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-3.png" width="180px">
+  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-3.png" width="18%">
   
-  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-4.png" width="180px">
+  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-4.png" width="18%">
   
-  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-5.png" width="180px">
+  <img alt="DoctorCore" title="#DoctorCore" src="./prints/mobile-5.png" width="18%">
 
 </p>
 
